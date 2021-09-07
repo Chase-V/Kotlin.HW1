@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kotlin.HW1</string>
+    <string name="hello_andrej">Hello Andrej!</string>
+    <string name="show_class_data">Show class data</string>
 </resources>
